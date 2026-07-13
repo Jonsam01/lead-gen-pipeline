@@ -1,0 +1,10 @@
+# Never commit real secrets to this repo
+.env
+service_account.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Local test data
+leads.json
